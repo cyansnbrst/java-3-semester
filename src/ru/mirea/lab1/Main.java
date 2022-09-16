@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        int[] firstArray = new int[]{15, 25, 6, 8};
+        sumandaverage(firstArray);
         int[] newArray = new int[5];
         System.out.println("Enter the values of the array: ");
         for (int i = 0; i < newArray.length; ++i) {
@@ -20,10 +22,20 @@ public class Main {
         System.out.print("The factorial of " + number + " is " + factorial(number));
     }
 
-    public static void sum(int[] array) {
-        int s = 0;
+    public static void sumandaverage(int[] array) {
+        double s = 0;
         for (int j : array) {
             s += j;
+        }
+        System.out.println("The sum is: " + s + ", the average is: " + (s / array.length));
+    }
+
+    public static void sum(int[] array) {
+        int s = 0;
+        int n = 0;
+        while (n < array.length) {
+            s += array[n];
+            ++n;
         }
         System.out.println("The sum of the values is " + s);
     }
