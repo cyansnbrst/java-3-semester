@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="made task 1">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/HowMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/TestShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/TestMatrix.java" afterDir="false" />
+    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="need to do 4.1-10">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/VehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +48,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMatrix">
-    <configuration name="HowMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab2.HowMany" />
-      <module name="java-3-semester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.mirea.lab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VehicleTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab4.Main" />
       <module name="java-3-semester" />
@@ -128,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab41.VehicleTest" />
+      <module name="java-3-semester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab41.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VehicleTest" />
         <item itemvalue="Application.TestMatrix" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.PhoneTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HowMany" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +136,7 @@
       <workItem from="1663356473940" duration="77000" />
       <workItem from="1664119543007" duration="8000" />
       <workItem from="1664386141220" duration="13000" />
-      <workItem from="1664461924783" duration="9337000" />
+      <workItem from="1664461924783" duration="11085000" />
     </task>
     <task id="LOCAL-00001" summary="made task 1">
       <created>1663316261933</created>
@@ -173,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663317048818</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="need to do 4.1-10">
+      <created>1664472880542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664472880542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="made task 1" />
+    <MESSAGE value="need to do 4.1-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="need to do 4.1-10" />
   </component>
 </project>
