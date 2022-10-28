@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="need to do 3">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/InternetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Task5.java" afterDir="false" />
+    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="ENDED 1-4.1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Figures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MainFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MatchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,24 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.ComputerTest">
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab6.ComputerTest" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.*" />
+          <option name="PATTERN" value="ru.mirea.lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.Task1" />
+    <configuration name="Figures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Figures" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.Task3" />
+    <configuration name="MainFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.MainFrames" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.Task4" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab6.Test" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.*" />
+          <option name="PATTERN" value="ru.mirea.lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab3.Task5" />
+    <configuration name="ru.mirea.lab5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Main" />
       <module name="java-3-semester" />
+      <option name="PROGRAM_PARAMETERS" value="1.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab3.*" />
+          <option name="PATTERN" value="ru.mirea.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ComputerTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MainFrames" />
+        <item itemvalue="Application.ru.mirea.lab5.Main" />
+        <item itemvalue="Application.Figures" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +152,9 @@
       <workItem from="1663356473940" duration="77000" />
       <workItem from="1664119543007" duration="8000" />
       <workItem from="1664386141220" duration="13000" />
-      <workItem from="1664461924783" duration="15196000" />
+      <workItem from="1664461924783" duration="15809000" />
+      <workItem from="1665072628345" duration="7000" />
+      <workItem from="1666967236841" duration="3580000" />
     </task>
     <task id="LOCAL-00001" summary="made task 1">
       <created>1663316261933</created>
@@ -174,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664474746269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ENDED 1-4.1">
+      <created>1664479252969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664479252969</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +219,7 @@
     <MESSAGE value="made task 1" />
     <MESSAGE value="need to do 4.1-10" />
     <MESSAGE value="need to do 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to do 3" />
+    <MESSAGE value="ENDED 1-4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ENDED 1-4.1" />
   </component>
 </project>
