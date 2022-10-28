@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="ENDED 1-4.1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Figures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MainFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/MatchResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/ComputerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Test.java" afterDir="false" />
+    <list default="true" id="3d5329f2-5c50-4a51-a488-aeff47f82cb1" name="Changes" comment="~commit~">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/MovableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Stringable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/StringableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Sequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/StudentGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab9/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +64,18 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComputerTest">
-    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab6.ComputerTest" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.mirea.lab8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortingStudentsByGPA">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab10.MergeSort" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab6.*" />
+          <option name="PATTERN" value="ru.mirea.lab10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,25 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Figures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Figures" />
+    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab10.SortingStudentsByGPA" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.MainFrames" />
-      <module name="java-3-semester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.mirea.lab5.*" />
+          <option name="PATTERN" value="ru.mirea.lab10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab6.Test" />
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab10.Test" />
       <module name="java-3-semester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab6.*" />
+          <option name="PATTERN" value="ru.mirea.lab10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.mirea.lab5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.Main" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab9.Test1" />
       <module name="java-3-semester" />
-      <option name="PROGRAM_PARAMETERS" value="1.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.mirea.lab5.*" />
+          <option name="PATTERN" value="ru.mirea.lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.lab9.Test2" />
+      <module name="java-3-semester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.lab9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComputerTest" />
+        <item itemvalue="Application.SortingStudentsByGPA" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MainFrames" />
-        <item itemvalue="Application.ru.mirea.lab5.Main" />
-        <item itemvalue="Application.Figures" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +159,7 @@
       <workItem from="1664386141220" duration="13000" />
       <workItem from="1664461924783" duration="15809000" />
       <workItem from="1665072628345" duration="7000" />
-      <workItem from="1666967236841" duration="3580000" />
+      <workItem from="1666967236841" duration="5916000" />
     </task>
     <task id="LOCAL-00001" summary="made task 1">
       <created>1663316261933</created>
@@ -198,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664479252969</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="~commit~">
+      <created>1666971001845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971001845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +232,7 @@
     <MESSAGE value="need to do 4.1-10" />
     <MESSAGE value="need to do 3" />
     <MESSAGE value="ENDED 1-4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ENDED 1-4.1" />
+    <MESSAGE value="~commit~" />
+    <option name="LAST_COMMIT_MESSAGE" value="~commit~" />
   </component>
 </project>
