@@ -1,5 +1,7 @@
 package ru.mirea.lab29;
 
+import java.util.Objects;
+
 public class List {
     private Node head;
 
@@ -88,7 +90,7 @@ public class List {
             return false;
         Node current = head;
         do {
-            if (current.data.getName() == name) {
+            if (Objects.equals(current.data.getName(), name)) {
                 return true;
             }
             current = current.nextNode;
